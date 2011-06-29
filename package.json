@@ -1,0 +1,9 @@
+{
+    "name": "armstrong.apps.alerts",
+    "version": "0.1.0.alpha.0",
+    "description": "Mechanism for configuring alerts inside Armstrong",
+    "install_requires": [
+        "django == 1.3.0",
+        "armstrong.core.arm_sections"
+    ]
+}
